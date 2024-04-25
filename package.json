@@ -1,0 +1,27 @@
+{
+  "name": "@leonetti/ts-to-no-case",
+  "version": "0.0.1",
+  "description": "to no case using typescript",
+  "repository": "alexandreleonetti/ts-to-no-case",
+  "type": "module",
+  "exports": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "type",
+    "types"
+  ],
+  "author": {
+    "name": "Alex Leonetti",
+    "url": "https://github.com/AlexandreLeonetti"
+  },
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
